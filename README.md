@@ -1,2 +1,2 @@
 # Palm Client - Bedrock
-Minecraft Hack Client for Minecraft Bedrock. GUI and . Commands included. Join our Discord for updates: https://discord.gg/Xdc3S8sjMv
+Minecraft Client for Minecraft Bedrock. Join our Discord for updates: https://discord.gg/Xdc3S8sjMv
